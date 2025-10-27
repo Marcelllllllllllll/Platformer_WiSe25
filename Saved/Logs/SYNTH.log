@@ -18289,3 +18289,2140 @@ Sampler Limit: 32
 [2025.10.27-00.33.59:952][607]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2025.10.27-00.33.59:952][607]LogShaderCompilers: Display: Material Cache Hits: 17 (1%)
 [2025.10.27-00.33.59:952][607]LogShaderCompilers: Display: ================================================
+[2025.10.27-00.37.25:564][667]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.27-00.37.25:564][667]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.37.25:564][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.37.25:564][667]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.37.25:564][667]MaterialEditorStats: Shader Count: 0
+[2025.10.27-00.37.25:564][667]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.37.25:643][669]MaterialEditorStats: Base pass shader without light map: 123 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.27-00.37.25:643][669]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.27-00.37.25:643][669]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.27-00.37.25:643][669]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.37.25:643][669]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.37.25:643][669]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.37.25:643][669]MaterialEditorStats: Shader Count: 13
+[2025.10.27-00.37.25:643][669]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.37.30:154][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3997.636230
+[2025.10.27-00.37.30:304][ 38]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-00.37.30:304][ 38]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3997.774414, Update Interval: 322.819305
+[2025.10.27-00.37.38:679][603]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.27-00.37.38:679][603]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.37.38:679][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.37.38:679][603]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.37.38:679][603]MaterialEditorStats: Shader Count: 0
+[2025.10.27-00.37.38:679][603]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.37.38:758][605]MaterialEditorStats: Base pass shader without light map: 123 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.27-00.37.38:758][605]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.27-00.37.38:758][605]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.27-00.37.38:758][605]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.37.38:758][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.37.38:758][605]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.37.38:758][605]MaterialEditorStats: Shader Count: 13
+[2025.10.27-00.37.38:758][605]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.37.41:766][826]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.27-00.37.41:766][826]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.37.41:766][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.37.41:766][826]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.37.41:766][826]MaterialEditorStats: Shader Count: 0
+[2025.10.27-00.37.41:766][826]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.37.41:873][828]MaterialEditorStats: Base pass shader without light map: 123 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.27-00.37.41:873][828]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.27-00.37.41:873][828]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.27-00.37.41:873][828]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.37.41:873][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.37.41:873][828]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.37.41:873][828]MaterialEditorStats: Shader Count: 13
+[2025.10.27-00.37.41:873][828]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.39.10:888][442]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.27-00.39.10:919][442]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.27-00.39.10:919][442]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.39.10:919][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.39.10:919][442]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.39.10:919][442]MaterialEditorStats: Shader Count: 0
+[2025.10.27-00.39.10:919][442]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.39.10:988][443]MaterialEditorStats: Base pass shader without light map: 123 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.27-00.39.10:988][443]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.27-00.39.10:988][443]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.27-00.39.10:988][443]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.39.10:988][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.39.10:988][443]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.39.10:988][443]MaterialEditorStats: Shader Count: 4
+[2025.10.27-00.39.10:988][443]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.39.13:184][554]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.27-00.39.13:184][554]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.39.13:184][554]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.39.13:184][554]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.39.13:184][554]MaterialEditorStats: Shader Count: 0
+[2025.10.27-00.39.13:184][554]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.39.13:287][556]MaterialEditorStats: Base pass shader without light map: 123 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.27-00.39.13:287][556]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.27-00.39.13:287][556]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.27-00.39.13:287][556]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.39.13:287][556]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.39.13:287][556]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.39.13:287][556]MaterialEditorStats: Shader Count: 13
+[2025.10.27-00.39.13:287][556]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.39.15:348][687]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.27-00.39.15:348][687]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.39.15:348][687]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.39.15:348][687]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.39.15:348][687]MaterialEditorStats: Shader Count: 0
+[2025.10.27-00.39.15:348][687]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.39.15:497][689]MaterialEditorStats: Base pass shader without light map: 123 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.27-00.39.15:497][689]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.27-00.39.15:497][689]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.27-00.39.15:497][689]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.39.15:497][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.39.15:497][689]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.39.15:497][689]MaterialEditorStats: Shader Count: 13
+[2025.10.27-00.39.15:497][689]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.39.18:330][844]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.27-00.39.18:330][844]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.39.18:330][844]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.39.18:330][844]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.39.18:330][844]MaterialEditorStats: Shader Count: 0
+[2025.10.27-00.39.18:330][844]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.39.18:440][846]MaterialEditorStats: Base pass shader without light map: 123 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.27-00.39.18:440][846]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.27-00.39.18:440][846]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.27-00.39.18:441][846]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.39.18:441][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.39.18:441][846]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.39.18:441][846]MaterialEditorStats: Shader Count: 13
+[2025.10.27-00.39.18:441][846]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.40.00:507][ 51]LogShaderCompilers: Display: ================================================
+[2025.10.27-00.40.00:507][ 51]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.27-00.40.00:507][ 51]LogShaderCompilers: Display: Total job queries 7,100, among them cache hits 6,409 (90.27%), DDC hits 470 (6.62%), Duplicates 83 (1.17%)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Tracking 607 distinct input hashes that result in 426 distinct outputs (70.18%)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: RAM used: 4.67 MiB of 1.60 GiB budget. Usage: 0.28%
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Shaders Compiled: 137
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Jobs assigned 137, completed 137 (100%)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Average time worker was idle: 144.23 s
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.34 s
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 2.67 s
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Job life time (pending + execution): average 1.22 s, max 3.18
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Shader code size: total 1.185 MiB, numShaders 149, average 8.143 KiB, min 4.168 KiB, max 19.695 KiB
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.15 s
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Jobs were issued in 137 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Average processing rate: 2.85 jobs/sec
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Total thread time: 110.13 s
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Total thread preprocess time: 89.266 s
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Percentage time preprocessing: 81.06%
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Effective parallelization: 2.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.571781
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 1.69 sec, max 2.20 sec, min 1.34 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    5 times, average 1.38 sec, max 1.50 sec, min 1.30 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 1.35 sec, max 1.52 sec, min 1.17 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.10 sec, max 1.28 sec, min 0.99 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    6 times, average 1.07 sec, max 1.44 sec, min 0.85 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 18.47% of total time (compiled   12 times, average 1.69 sec, max 2.20 sec, min 1.34 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.14% of total time (compiled   24 times, average 0.65 sec, max 1.01 sec, min 0.42 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.97% of total time (compiled   16 times, average 0.48 sec, max 0.68 sec, min 0.39 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.27% of total time (compiled    5 times, average 1.38 sec, max 1.50 sec, min 1.30 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.14% of total time (compiled    5 times, average 1.35 sec, max 1.52 sec, min 1.17 sec)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: === Material stats ===
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Materials Translated:    1212
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Material Total Translate Time: 1.10 s
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Material Translation Only: 0.51 s (47%)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: Material Cache Hits: 17 (1%)
+[2025.10.27-00.40.00:508][ 51]LogShaderCompilers: Display: ================================================
+[2025.10.27-00.40.48:735][540]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.27-00.40.48:735][540]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.40.48:735][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.40.48:735][540]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.40.48:735][540]MaterialEditorStats: Shader Count: 0
+[2025.10.27-00.40.48:735][540]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.40.48:803][542]MaterialEditorStats: Base pass shader without light map: 123 instructions
+Stats: Resources Used: 2
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.27-00.40.48:803][542]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.27-00.40.48:803][542]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.27-00.40.48:803][542]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.10.27-00.40.48:803][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.27-00.40.48:804][542]MaterialEditorStats: LWC Multiply Vector Matrix usages (Est.): 0 (VS), 1 (PS), 0 (CS)
+[2025.10.27-00.40.48:804][542]MaterialEditorStats: Shader Count: 6
+[2025.10.27-00.40.48:804][542]MaterialEditorStats: Preshaders: 6  (7 param fetches, 19 ops)
+[2025.10.27-00.40.49:771][590]LogEditorTransaction: Undo Create Pin Link
+[2025.10.27-00.40.50:034][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.10.27-00.40.50:224][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.27-00.40.50:463][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.27-00.40.50:633][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.27-00.40.50:948][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.27-00.40.51:121][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.27-00.40.51:438][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.27-00.40.51:611][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.27-00.40.51:858][590]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.27-00.41.23:068][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.27-00.41.24:913][257]LogMaterialEditor: Applying material M_Fading
+[2025.10.27-00.41.25:196][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.27-00.41.25:379][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.27-00.41.25:601][262]LogPSOHitching: Encountered 50 PSO creation hitches so far (19 graphics, 31 compute). 0 of them were precached.
+[2025.10.27-00.41.44:310][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.27-00.41.44:310][412]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Blockout
+[2025.10.27-00.41.44:413][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103827s)
+[2025.10.27-00.41.44:414][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Blockout.Blockout to /Game/Maps/UEDPIE_0_Blockout.Blockout (0.103879s)
+[2025.10.27-00.41.44:449][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.10.27-00.41.44:452][412]LogChaosDD: Creating Chaos Debug Draw Scene for world Blockout
+[2025.10.27-00.41.44:455][412]LogPlayLevel: PIE: World Init took: (0.003377s)
+[2025.10.27-00.41.44:457][412]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.10.27-00.41.44:457][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.27-00.41.44:457][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.27-00.41.44:457][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.27-00.41.44:457][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.27-00.41.44:457][412]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.27-00.41.44:457][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.27-00.41.44:457][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.27-00.41.44:457][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.27-00.41.44:457][412]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.27-00.41.44:457][412]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.27-00.41.44:457][412]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.27-00.41.44:459][412]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.27-00.41.44:485][412]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (GSA 70 Main Audio)
+[2025.10.27-00.41.44:485][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.27-00.41.44:485][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.27-00.41.44:485][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.27-00.41.44:486][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.10.27-00.41.44:486][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.10.27-00.41.44:491][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.10.27-00.41.44:491][412]LogInit: FAudioDevice initialized with ID 9.
+[2025.10.27-00.41.44:491][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.10.27-00.41.44:491][412]LogAudio: Display: Audio Device (ID: 9) registered with world 'Blockout'.
+[2025.10.27-00.41.44:491][412]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.27-00.41.44:497][412]LogLoad: Game class is 'FirstGamemodeBase_C'
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_1.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_1 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_1.Sphere 
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_1.BoxCollisionTeleport has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_1 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_1.BoxCollisionTeleport 
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_2 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_2.Sphere 
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_2.BoxCollisionTeleport has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_2 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_2.BoxCollisionTeleport 
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_3.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_3 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_3.Sphere 
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_3.BoxCollisionTeleport has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_3 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_3.BoxCollisionTeleport 
+[2025.10.27-00.41.44:524][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_4.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_4 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_4.Sphere 
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_4.BoxCollisionTeleport has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_4 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_4.BoxCollisionTeleport 
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_6.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_6 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_6.Sphere 
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_6.BoxCollisionTeleport has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_6 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_6.BoxCollisionTeleport 
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_8.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_8 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_8.Sphere 
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Scale for /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_8.BoxCollisionTeleport has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.10.27-00.41.44:525][412]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Portal_C_8 /Game/Maps/UEDPIE_0_Blockout.Blockout:PersistentLevel.BP_Portal_C_8.BoxCollisionTeleport 
+[2025.10.27-00.41.44:543][412]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Blockout.Blockout up for play (max tick rate 0) at 2025.10.27-01.41.44
+[2025.10.27-00.41.44:544][412]LogWorld: Bringing up level for play took: 0.047028
+[2025.10.27-00.41.44:546][412]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.10.27-00.41.44:556][412]PIE: Server logged in
+[2025.10.27-00.41.44:559][412]PIE: Play in editor total start time 0.25 seconds.
+[2025.10.27-00.41.44:561][412]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:606][413]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:641][413]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.27-00.41.44:687][414]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:765][415]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:782][416]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:797][417]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:813][418]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:828][419]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:843][420]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:860][421]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:877][422]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:892][423]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:907][424]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:921][425]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:939][426]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:957][427]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:974][428]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.44:989][429]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:011][430]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:025][431]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:041][432]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:057][433]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:075][434]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:091][435]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:115][436]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:136][437]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:153][438]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:172][439]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:192][440]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:211][441]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:229][442]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:249][443]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:268][444]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:285][445]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:301][446]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:318][447]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:332][448]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:350][449]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:366][450]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:381][451]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:395][452]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:411][453]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:433][454]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:449][455]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:465][456]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:511][457]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:527][458]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:543][459]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:559][460]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:576][461]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:592][462]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:608][463]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:624][464]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:639][465]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:654][466]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:668][467]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:683][468]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:697][469]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:712][470]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:725][471]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:739][472]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:754][473]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:768][474]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:785][475]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:804][476]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:818][477]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:831][478]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:846][479]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:862][480]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:876][481]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:890][482]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:905][483]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:920][484]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:934][485]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:949][486]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:964][487]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:978][488]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.45:992][489]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:007][490]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:021][491]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:036][492]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:050][493]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:064][494]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:081][495]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:094][496]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:109][497]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:124][498]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:139][499]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:156][500]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:170][501]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:186][502]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:200][503]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:214][504]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:231][505]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:245][506]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:261][507]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:275][508]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:290][509]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:304][510]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:319][511]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:333][512]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:348][513]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:363][514]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:379][515]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:393][516]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:407][517]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:426][518]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:441][519]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:456][520]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:471][521]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:487][522]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:502][523]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:517][524]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:532][525]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:548][526]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:563][527]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:579][528]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:594][529]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:609][530]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:624][531]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:638][532]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:653][533]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:667][534]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:684][535]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:699][536]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:716][537]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:732][538]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:747][539]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:761][540]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:778][541]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:792][542]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:807][543]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:822][544]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:837][545]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:853][546]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:867][547]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:883][548]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:898][549]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:912][550]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:927][551]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:941][552]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:956][553]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:970][554]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:984][555]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.46:999][556]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:013][557]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:027][558]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:041][559]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:056][560]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:070][561]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:085][562]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:099][563]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:117][564]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:131][565]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:148][566]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:162][567]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:179][568]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:194][569]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:211][570]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:227][571]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:241][572]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:256][573]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:270][574]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:285][575]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:300][576]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:318][577]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:332][578]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:348][579]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:364][580]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:379][581]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:395][582]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:410][583]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:424][584]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:438][585]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:454][586]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:468][587]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:483][588]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:498][589]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:513][590]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:526][591]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:541][592]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:556][593]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:570][594]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:585][595]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:599][596]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:613][597]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:627][598]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:641][599]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:658][600]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:672][601]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:687][602]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:702][603]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:717][604]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:732][605]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:748][606]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:764][607]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:779][608]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:794][609]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:809][610]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:823][611]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:837][612]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:850][613]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:864][614]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:880][615]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:894][616]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:909][617]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:925][618]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:939][619]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:957][620]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:975][621]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.47:990][622]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:004][623]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:018][624]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:031][625]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:047][626]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:070][627]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:097][628]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:111][629]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:126][630]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:140][631]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:155][632]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:169][633]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:183][634]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:197][635]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:211][636]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:225][637]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:239][638]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:253][639]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:268][640]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:283][641]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:298][642]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:313][643]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:329][644]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:343][645]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:360][646]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:377][647]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:392][648]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:407][649]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:421][650]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:436][651]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:449][652]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:464][653]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:478][654]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:494][655]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:509][656]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:524][657]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:539][658]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:553][659]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:568][660]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:583][661]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:597][662]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:612][663]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:625][664]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:643][665]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:658][666]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:674][667]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:688][668]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:705][669]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:720][670]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:738][671]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:754][672]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:767][673]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:782][674]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:799][675]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:815][676]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:829][677]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:845][678]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:859][679]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:874][680]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:889][681]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:904][682]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:920][683]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:934][684]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:949][685]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:963][686]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:978][687]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.48:996][688]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:009][689]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:024][690]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:039][691]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:054][692]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:067][693]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:084][694]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:097][695]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:112][696]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:128][697]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:142][698]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:157][699]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:171][700]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:185][701]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:201][702]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:215][703]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:232][704]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:246][705]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:263][706]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:278][707]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:294][708]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:308][709]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:323][710]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:337][711]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:351][712]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:366][713]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:381][714]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:397][715]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:413][716]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:427][717]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:442][718]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:456][719]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:471][720]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:487][721]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:501][722]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:518][723]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:533][724]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:548][725]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:562][726]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:575][727]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:591][728]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:606][729]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:623][730]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:637][731]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:653][732]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:668][733]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:685][734]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:700][735]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:716][736]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:731][737]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:747][738]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:761][739]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:776][740]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:792][741]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:807][742]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:821][743]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:837][744]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:855][745]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:871][746]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:885][747]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:899][748]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:913][749]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:929][750]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:944][751]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:960][752]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:976][753]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.49:991][754]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:008][755]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:024][756]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:039][757]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:055][758]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:072][759]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:088][760]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:104][761]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:121][762]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:139][763]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:156][764]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:171][765]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:185][766]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:199][767]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:213][768]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:228][769]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:242][770]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:256][771]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:271][772]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:286][773]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:303][774]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:318][775]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:332][776]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:348][777]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:363][778]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:378][779]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:393][780]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:410][781]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:424][782]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:440][783]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:453][784]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:469][785]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:485][786]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:499][787]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:514][788]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:533][789]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:548][790]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:563][791]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:577][792]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:593][793]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:607][794]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:622][795]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:639][796]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:660][797]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:676][798]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:692][799]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:708][800]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:725][801]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:743][802]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:758][803]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:775][804]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:792][805]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:809][806]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:823][807]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:839][808]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:854][809]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:869][810]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:884][811]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:899][812]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:914][813]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:928][814]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:944][815]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:959][816]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:974][817]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.50:990][818]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:004][819]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:020][820]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:035][821]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:050][822]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:065][823]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:082][824]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:097][825]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:113][826]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:128][827]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:144][828]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:160][829]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:175][830]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:190][831]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:206][832]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:221][833]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:237][834]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:253][835]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:268][836]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:284][837]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:299][838]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:314][839]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:330][840]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:347][841]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:363][842]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:379][843]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:395][844]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:416][845]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:433][846]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:447][847]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:462][848]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:476][849]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:494][850]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:515][851]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:547][852]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:562][853]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:578][854]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:593][855]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:607][856]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:623][857]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:640][858]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:655][859]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:670][860]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:685][861]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:701][862]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:718][863]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:736][864]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:754][865]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:771][866]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:788][867]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:805][868]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:821][869]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:836][870]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:851][871]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:866][872]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:886][873]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:900][874]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:916][875]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:934][876]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:949][877]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:964][878]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:979][879]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.51:995][880]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:010][881]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:025][882]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:040][883]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:055][884]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:070][885]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:086][886]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:102][887]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:117][888]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:132][889]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:148][890]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:163][891]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:180][892]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:195][893]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:211][894]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:225][895]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:240][896]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:255][897]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:269][898]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:285][899]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:300][900]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:314][901]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:329][902]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:345][903]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:360][904]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:375][905]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:392][906]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:407][907]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:422][908]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:438][909]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:453][910]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:468][911]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:486][912]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:501][913]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:518][914]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:532][915]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:550][916]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:565][917]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:581][918]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:597][919]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:611][920]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:627][921]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:644][922]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:658][923]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:672][924]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:688][925]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:703][926]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:718][927]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:733][928]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:749][929]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:763][930]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:777][931]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:791][932]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:807][933]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:822][934]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:838][935]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:853][936]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:868][937]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:884][938]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:898][939]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:912][940]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:928][941]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:942][942]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:957][943]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:971][944]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.52:990][945]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:004][946]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:019][947]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:033][948]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:051][949]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:065][950]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:082][951]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:097][952]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:112][953]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:126][954]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:143][955]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:157][956]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:171][957]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:186][958]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:202][959]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:215][960]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:231][961]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:245][962]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:261][963]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:275][964]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:291][965]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:307][966]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:322][967]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:337][968]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:352][969]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:367][970]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:382][971]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:397][972]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:412][973]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:427][974]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:441][975]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:458][976]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:473][977]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:489][978]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:505][979]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:519][980]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:534][981]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:556][982]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:570][983]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:586][984]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:600][985]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:616][986]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:630][987]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:645][988]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:660][989]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:675][990]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:691][991]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:708][992]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:726][993]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:743][994]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:764][995]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:781][996]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:799][997]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:815][998]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:831][999]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:846][  0]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:860][  1]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:875][  2]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:891][  3]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:905][  4]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:920][  5]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:934][  6]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:949][  7]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:963][  8]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:978][  9]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.53:993][ 10]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:009][ 11]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:024][ 12]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:038][ 13]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:054][ 14]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:070][ 15]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:089][ 16]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:104][ 17]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:120][ 18]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:135][ 19]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:151][ 20]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:164][ 21]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:179][ 22]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:194][ 23]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:208][ 24]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:223][ 25]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:237][ 26]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:253][ 27]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:267][ 28]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:283][ 29]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:297][ 30]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:313][ 31]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:328][ 32]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:343][ 33]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:360][ 34]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:374][ 35]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:389][ 36]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:404][ 37]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:418][ 38]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:433][ 39]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:448][ 40]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:462][ 41]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:478][ 42]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:493][ 43]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:509][ 44]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:523][ 45]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:538][ 46]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:557][ 47]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:571][ 48]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:587][ 49]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:601][ 50]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:617][ 51]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:632][ 52]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:648][ 53]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:663][ 54]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:677][ 55]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:693][ 56]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:707][ 57]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:724][ 58]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:739][ 59]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:755][ 60]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:769][ 61]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:784][ 62]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:799][ 63]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:815][ 64]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:830][ 65]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:847][ 66]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:868][ 67]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:888][ 68]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:903][ 69]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:918][ 70]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:933][ 71]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:951][ 72]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:980][ 73]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.54:999][ 74]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:022][ 75]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:041][ 76]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:056][ 77]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:072][ 78]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:087][ 79]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:102][ 80]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:117][ 81]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:133][ 82]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:154][ 83]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:168][ 84]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:183][ 85]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:199][ 86]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:213][ 87]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:227][ 88]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:243][ 89]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:257][ 90]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:272][ 91]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:287][ 92]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:302][ 93]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:316][ 94]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:332][ 95]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:347][ 96]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:363][ 97]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:379][ 98]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:395][ 99]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:411][100]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:425][101]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:442][102]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:457][103]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:473][104]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:489][105]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:505][106]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:521][107]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:536][108]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:551][109]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:569][110]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:584][111]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:600][112]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:615][113]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:629][114]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:645][115]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:659][116]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:674][117]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:688][118]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:704][119]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:719][120]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:735][121]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:751][122]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:766][123]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:784][124]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:801][125]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:820][126]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:836][127]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:852][128]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:868][129]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:889][130]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:906][131]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:922][132]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:938][133]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:954][134]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:969][135]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:984][136]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.55:999][137]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:013][138]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:028][139]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:043][140]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:057][141]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:071][142]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:085][143]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:100][144]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:115][145]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:131][146]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:146][147]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:160][148]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:175][149]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:192][150]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:206][151]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:221][152]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:237][153]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:251][154]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:266][155]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:281][156]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:296][157]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:313][158]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:328][159]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:344][160]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:359][161]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:374][162]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:390][163]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:406][164]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:421][165]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:440][166]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:454][167]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:470][168]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:484][169]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:499][170]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:514][171]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:528][172]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:543][173]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:559][174]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:577][175]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:592][176]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:607][177]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:622][178]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:637][179]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:651][180]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:666][181]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:681][182]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:695][183]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:712][184]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:726][185]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:742][186]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:756][187]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:772][188]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:787][189]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:801][190]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:815][191]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:830][192]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:848][193]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:861][194]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:877][195]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:891][196]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:907][197]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:923][198]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:937][199]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:951][200]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:965][201]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:981][202]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.56:995][203]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:009][204]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:026][205]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:042][206]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:057][207]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:071][208]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:087][209]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:101][210]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:115][211]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:130][212]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:145][213]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:161][214]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:177][215]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:195][216]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:211][217]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:226][218]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.41.57:777][254]LogBlueprintUserMessages: [BP_Zane_C_0] 79.916198
+[2025.10.27-00.41.57:793][255]LogBlueprintUserMessages: [BP_Zane_C_0] 79.835269
+[2025.10.27-00.41.57:808][256]LogBlueprintUserMessages: [BP_Zane_C_0] 79.761332
+[2025.10.27-00.41.57:822][257]LogBlueprintUserMessages: [BP_Zane_C_0] 79.689826
+[2025.10.27-00.41.57:837][258]LogBlueprintUserMessages: [BP_Zane_C_0] 79.615264
+[2025.10.27-00.41.57:853][259]LogBlueprintUserMessages: [BP_Zane_C_0] 79.538638
+[2025.10.27-00.41.57:869][260]LogBlueprintUserMessages: [BP_Zane_C_0] 79.458416
+[2025.10.27-00.41.57:885][261]LogBlueprintUserMessages: [BP_Zane_C_0] 79.374519
+[2025.10.27-00.41.57:900][262]LogBlueprintUserMessages: [BP_Zane_C_0] 79.301066
+[2025.10.27-00.41.57:915][263]LogBlueprintUserMessages: [BP_Zane_C_0] 79.227599
+[2025.10.27-00.41.57:930][264]LogBlueprintUserMessages: [BP_Zane_C_0] 79.149466
+[2025.10.27-00.41.57:945][265]LogBlueprintUserMessages: [BP_Zane_C_0] 79.074263
+[2025.10.27-00.41.57:959][266]LogBlueprintUserMessages: [BP_Zane_C_0] 79.004155
+[2025.10.27-00.41.57:974][267]LogBlueprintUserMessages: [BP_Zane_C_0] 78.934532
+[2025.10.27-00.41.57:991][268]LogBlueprintUserMessages: [BP_Zane_C_0] 78.851012
+[2025.10.27-00.41.58:006][269]LogBlueprintUserMessages: [BP_Zane_C_0] 78.775203
+[2025.10.27-00.41.58:022][270]LogBlueprintUserMessages: [BP_Zane_C_0] 78.698342
+[2025.10.27-00.41.58:040][271]LogBlueprintUserMessages: [BP_Zane_C_0] 78.610725
+[2025.10.27-00.41.58:055][272]LogBlueprintUserMessages: [BP_Zane_C_0] 78.53157
+[2025.10.27-00.41.58:072][273]LogBlueprintUserMessages: [BP_Zane_C_0] 78.454005
+[2025.10.27-00.41.58:089][274]LogBlueprintUserMessages: [BP_Zane_C_0] 78.366433
+[2025.10.27-00.41.58:105][275]LogBlueprintUserMessages: [BP_Zane_C_0] 78.282667
+[2025.10.27-00.41.58:120][276]LogBlueprintUserMessages: [BP_Zane_C_0] 78.203515
+[2025.10.27-00.41.58:633][307]LogBlueprintUserMessages: [BP_Zane_C_0] 58.124114
+[2025.10.27-00.41.58:647][308]LogBlueprintUserMessages: [BP_Zane_C_0] 58.05126
+[2025.10.27-00.41.58:662][309]LogBlueprintUserMessages: [BP_Zane_C_0] 57.978185
+[2025.10.27-00.41.58:677][310]LogBlueprintUserMessages: [BP_Zane_C_0] 57.905263
+[2025.10.27-00.41.58:693][311]LogBlueprintUserMessages: [BP_Zane_C_0] 57.82747
+[2025.10.27-00.41.58:708][312]LogBlueprintUserMessages: [BP_Zane_C_0] 57.752464
+[2025.10.27-00.41.58:723][313]LogBlueprintUserMessages: [BP_Zane_C_0] 57.674834
+[2025.10.27-00.41.58:738][314]LogBlueprintUserMessages: [BP_Zane_C_0] 57.595146
+[2025.10.27-00.41.58:753][315]LogBlueprintUserMessages: [BP_Zane_C_0] 57.52421
+[2025.10.27-00.41.58:768][316]LogBlueprintUserMessages: [BP_Zane_C_0] 57.448434
+[2025.10.27-00.41.58:783][317]LogBlueprintUserMessages: [BP_Zane_C_0] 57.3765
+[2025.10.27-00.41.58:799][318]LogBlueprintUserMessages: [BP_Zane_C_0] 57.29335
+[2025.10.27-00.41.58:814][319]LogBlueprintUserMessages: [BP_Zane_C_0] 57.218617
+[2025.10.27-00.41.58:828][320]LogBlueprintUserMessages: [BP_Zane_C_0] 57.1474
+[2025.10.27-00.41.58:844][321]LogBlueprintUserMessages: [BP_Zane_C_0] 57.066862
+[2025.10.27-00.41.58:859][322]LogBlueprintUserMessages: [BP_Zane_C_0] 56.991742
+[2025.10.27-00.41.58:875][323]LogBlueprintUserMessages: [BP_Zane_C_0] 56.911284
+[2025.10.27-00.41.58:890][324]LogBlueprintUserMessages: [BP_Zane_C_0] 56.836699
+[2025.10.27-00.41.58:905][325]LogBlueprintUserMessages: [BP_Zane_C_0] 56.760524
+[2025.10.27-00.41.58:922][326]LogBlueprintUserMessages: [BP_Zane_C_0] 56.679638
+[2025.10.27-00.41.58:937][327]LogBlueprintUserMessages: [BP_Zane_C_0] 56.602193
+[2025.10.27-00.41.58:953][328]LogBlueprintUserMessages: [BP_Zane_C_0] 56.521022
+[2025.10.27-00.41.58:985][330]LogBlueprintUserMessages: [BP_Zane_C_0] 56.844152
+[2025.10.27-00.41.59:002][331]LogBlueprintUserMessages: [BP_Zane_C_0] 57.159836
+[2025.10.27-00.41.59:018][332]LogBlueprintUserMessages: [BP_Zane_C_0] 57.489606
+[2025.10.27-00.41.59:036][333]LogBlueprintUserMessages: [BP_Zane_C_0] 57.866522
+[2025.10.27-00.41.59:053][334]LogBlueprintUserMessages: [BP_Zane_C_0] 58.190686
+[2025.10.27-00.41.59:071][335]LogBlueprintUserMessages: [BP_Zane_C_0] 58.533038
+[2025.10.27-00.41.59:089][336]LogBlueprintUserMessages: [BP_Zane_C_0] 58.891748
+[2025.10.27-00.41.59:105][337]LogBlueprintUserMessages: [BP_Zane_C_0] 59.218356
+[2025.10.27-00.41.59:122][338]LogBlueprintUserMessages: [BP_Zane_C_0] 59.55389
+[2025.10.27-00.41.59:138][339]LogBlueprintUserMessages: [BP_Zane_C_0] 59.896982
+[2025.10.27-00.41.59:155][340]LogBlueprintUserMessages: [BP_Zane_C_0] 60.207952
+[2025.10.27-00.41.59:171][341]LogBlueprintUserMessages: [BP_Zane_C_0] 60.546364
+[2025.10.27-00.41.59:187][342]LogBlueprintUserMessages: [BP_Zane_C_0] 60.871232
+[2025.10.27-00.41.59:203][343]LogBlueprintUserMessages: [BP_Zane_C_0] 61.192004
+[2025.10.27-00.41.59:218][344]LogBlueprintUserMessages: [BP_Zane_C_0] 61.526602
+[2025.10.27-00.41.59:234][345]LogBlueprintUserMessages: [BP_Zane_C_0] 61.826232
+[2025.10.27-00.41.59:250][346]LogBlueprintUserMessages: [BP_Zane_C_0] 62.172034
+[2025.10.27-00.41.59:265][347]LogBlueprintUserMessages: [BP_Zane_C_0] 62.460842
+[2025.10.27-00.41.59:279][348]LogBlueprintUserMessages: [BP_Zane_C_0] 62.752304
+[2025.10.27-00.41.59:293][349]LogBlueprintUserMessages: [BP_Zane_C_0] 63.024876
+[2025.10.27-00.41.59:310][350]LogBlueprintUserMessages: [BP_Zane_C_0] 63.357246
+[2025.10.27-00.41.59:325][351]LogBlueprintUserMessages: [BP_Zane_C_0] 63.659222
+[2025.10.27-00.41.59:340][352]LogBlueprintUserMessages: [BP_Zane_C_0] 63.959132
+[2025.10.27-00.41.59:355][353]LogBlueprintUserMessages: [BP_Zane_C_0] 64.254782
+[2025.10.27-00.41.59:371][354]LogBlueprintUserMessages: [BP_Zane_C_0] 64.587218
+[2025.10.27-00.41.59:386][355]LogBlueprintUserMessages: [BP_Zane_C_0] 64.884098
+[2025.10.27-00.41.59:403][356]LogBlueprintUserMessages: [BP_Zane_C_0] 65.223868
+[2025.10.27-00.41.59:417][357]LogBlueprintUserMessages: [BP_Zane_C_0] 65.504184
+[2025.10.27-00.41.59:432][358]LogBlueprintUserMessages: [BP_Zane_C_0] 65.812116
+[2025.10.27-00.41.59:446][359]LogBlueprintUserMessages: [BP_Zane_C_0] 66.09276
+[2025.10.27-00.41.59:460][360]LogBlueprintUserMessages: [BP_Zane_C_0] 66.362352
+[2025.10.27-00.41.59:476][361]LogBlueprintUserMessages: [BP_Zane_C_0] 66.676264
+[2025.10.27-00.41.59:490][362]LogBlueprintUserMessages: [BP_Zane_C_0] 66.971886
+[2025.10.27-00.41.59:504][363]LogBlueprintUserMessages: [BP_Zane_C_0] 67.248678
+[2025.10.27-00.41.59:518][364]LogBlueprintUserMessages: [BP_Zane_C_0] 67.52334
+[2025.10.27-00.41.59:532][365]LogBlueprintUserMessages: [BP_Zane_C_0] 67.803096
+[2025.10.27-00.41.59:547][366]LogBlueprintUserMessages: [BP_Zane_C_0] 68.095334
+[2025.10.27-00.41.59:561][367]LogBlueprintUserMessages: [BP_Zane_C_0] 68.387754
+[2025.10.27-00.41.59:576][368]LogBlueprintUserMessages: [BP_Zane_C_0] 68.692988
+[2025.10.27-00.41.59:593][369]LogBlueprintUserMessages: [BP_Zane_C_0] 69.020342
+[2025.10.27-00.41.59:608][370]LogBlueprintUserMessages: [BP_Zane_C_0] 69.315814
+[2025.10.27-00.41.59:624][371]LogBlueprintUserMessages: [BP_Zane_C_0] 69.643778
+[2025.10.27-00.41.59:639][372]LogBlueprintUserMessages: [BP_Zane_C_0] 69.93889
+[2025.10.27-00.41.59:653][373]LogBlueprintUserMessages: [BP_Zane_C_0] 70.218452
+[2025.10.27-00.41.59:667][374]LogBlueprintUserMessages: [BP_Zane_C_0] 70.504254
+[2025.10.27-00.41.59:683][375]LogBlueprintUserMessages: [BP_Zane_C_0] 70.819936
+[2025.10.27-00.41.59:697][376]LogBlueprintUserMessages: [BP_Zane_C_0] 71.105592
+[2025.10.27-00.41.59:711][377]LogBlueprintUserMessages: [BP_Zane_C_0] 71.384194
+[2025.10.27-00.41.59:725][378]LogBlueprintUserMessages: [BP_Zane_C_0] 71.664336
+[2025.10.27-00.41.59:742][379]LogBlueprintUserMessages: [BP_Zane_C_0] 72.002726
+[2025.10.27-00.41.59:759][380]LogBlueprintUserMessages: [BP_Zane_C_0] 72.309556
+[2025.10.27-00.41.59:776][381]LogBlueprintUserMessages: [BP_Zane_C_0] 72.6742
+[2025.10.27-00.41.59:792][382]LogBlueprintUserMessages: [BP_Zane_C_0] 73.010836
+[2025.10.27-00.41.59:806][383]LogBlueprintUserMessages: [BP_Zane_C_0] 73.296404
+[2025.10.27-00.41.59:821][384]LogBlueprintUserMessages: [BP_Zane_C_0] 73.576344
+[2025.10.27-00.41.59:838][385]LogBlueprintUserMessages: [BP_Zane_C_0] 73.915424
+[2025.10.27-00.41.59:853][386]LogBlueprintUserMessages: [BP_Zane_C_0] 74.195126
+[2025.10.27-00.41.59:868][387]LogBlueprintUserMessages: [BP_Zane_C_0] 74.508436
+[2025.10.27-00.41.59:882][388]LogBlueprintUserMessages: [BP_Zane_C_0] 74.80962
+[2025.10.27-00.41.59:897][389]LogBlueprintUserMessages: [BP_Zane_C_0] 75.10567
+[2025.10.27-00.41.59:912][390]LogBlueprintUserMessages: [BP_Zane_C_0] 75.415032
+[2025.10.27-00.41.59:926][391]LogBlueprintUserMessages: [BP_Zane_C_0] 75.694852
+[2025.10.27-00.41.59:941][392]LogBlueprintUserMessages: [BP_Zane_C_0] 75.980672
+[2025.10.27-00.41.59:955][393]LogBlueprintUserMessages: [BP_Zane_C_0] 76.26178
+[2025.10.27-00.41.59:971][394]LogBlueprintUserMessages: [BP_Zane_C_0] 76.579142
+[2025.10.27-00.41.59:985][395]LogBlueprintUserMessages: [BP_Zane_C_0] 76.859518
+[2025.10.27-00.42.00:002][396]LogBlueprintUserMessages: [BP_Zane_C_0] 77.183846
+[2025.10.27-00.42.00:018][397]LogBlueprintUserMessages: [BP_Zane_C_0] 77.506326
+[2025.10.27-00.42.00:035][398]LogBlueprintUserMessages: [BP_Zane_C_0] 77.84792
+[2025.10.27-00.42.00:049][399]LogBlueprintUserMessages: [BP_Zane_C_0] 78.144294
+[2025.10.27-00.42.00:065][400]LogBlueprintUserMessages: [BP_Zane_C_0] 78.442384
+[2025.10.27-00.42.00:082][401]LogBlueprintUserMessages: [BP_Zane_C_0] 78.792254
+[2025.10.27-00.42.00:097][402]LogBlueprintUserMessages: [BP_Zane_C_0] 79.086284
+[2025.10.27-00.42.00:111][403]LogBlueprintUserMessages: [BP_Zane_C_0] 79.385182
+[2025.10.27-00.42.00:125][404]LogBlueprintUserMessages: [BP_Zane_C_0] 79.674618
+[2025.10.27-00.42.00:139][405]LogBlueprintUserMessages: [BP_Zane_C_0] 79.953512
+[2025.10.27-00.42.00:154][406]LogBlueprintUserMessages: [BP_Zane_C_0] 80.231006
+[2025.10.27-00.42.00:168][407]LogBlueprintUserMessages: [BP_Zane_C_0] 80.515878
+[2025.10.27-00.42.00:184][408]LogBlueprintUserMessages: [BP_Zane_C_0] 80.83392
+[2025.10.27-00.42.00:200][409]LogBlueprintUserMessages: [BP_Zane_C_0] 81.140564
+[2025.10.27-00.42.00:216][410]LogBlueprintUserMessages: [BP_Zane_C_0] 81.459424
+[2025.10.27-00.42.00:230][411]LogBlueprintUserMessages: [BP_Zane_C_0] 81.75605
+[2025.10.27-00.42.00:245][412]LogBlueprintUserMessages: [BP_Zane_C_0] 82.064222
+[2025.10.27-00.42.00:260][413]LogBlueprintUserMessages: [BP_Zane_C_0] 82.34028
+[2025.10.27-00.42.00:275][414]LogBlueprintUserMessages: [BP_Zane_C_0] 82.656172
+[2025.10.27-00.42.00:289][415]LogBlueprintUserMessages: [BP_Zane_C_0] 82.950156
+[2025.10.27-00.42.00:304][416]LogBlueprintUserMessages: [BP_Zane_C_0] 83.243356
+[2025.10.27-00.42.00:319][417]LogBlueprintUserMessages: [BP_Zane_C_0] 83.534398
+[2025.10.27-00.42.00:333][418]LogBlueprintUserMessages: [BP_Zane_C_0] 83.832748
+[2025.10.27-00.42.00:347][419]LogBlueprintUserMessages: [BP_Zane_C_0] 84.110848
+[2025.10.27-00.42.00:364][420]LogBlueprintUserMessages: [BP_Zane_C_0] 84.424878
+[2025.10.27-00.42.00:379][421]LogBlueprintUserMessages: [BP_Zane_C_0] 84.735888
+[2025.10.27-00.42.00:393][422]LogBlueprintUserMessages: [BP_Zane_C_0] 85.033216
+[2025.10.27-00.42.00:410][423]LogBlueprintUserMessages: [BP_Zane_C_0] 85.361012
+[2025.10.27-00.42.00:425][424]LogBlueprintUserMessages: [BP_Zane_C_0] 85.657308
+[2025.10.27-00.42.00:441][425]LogBlueprintUserMessages: [BP_Zane_C_0] 85.974668
+[2025.10.27-00.42.00:456][426]LogBlueprintUserMessages: [BP_Zane_C_0] 86.273376
+[2025.10.27-00.42.00:472][427]LogBlueprintUserMessages: [BP_Zane_C_0] 86.601762
+[2025.10.27-00.42.00:487][428]LogBlueprintUserMessages: [BP_Zane_C_0] 86.906212
+[2025.10.27-00.42.00:503][429]LogBlueprintUserMessages: [BP_Zane_C_0] 87.20779
+[2025.10.27-00.42.00:517][430]LogBlueprintUserMessages: [BP_Zane_C_0] 87.509402
+[2025.10.27-00.42.00:531][431]LogBlueprintUserMessages: [BP_Zane_C_0] 87.79316
+[2025.10.27-00.42.00:546][432]LogBlueprintUserMessages: [BP_Zane_C_0] 88.074872
+[2025.10.27-00.42.00:561][433]LogBlueprintUserMessages: [BP_Zane_C_0] 88.363372
+[2025.10.27-00.42.00:576][434]LogBlueprintUserMessages: [BP_Zane_C_0] 88.675984
+[2025.10.27-00.42.00:591][435]LogBlueprintUserMessages: [BP_Zane_C_0] 88.6041
+[2025.10.27-00.42.00:606][436]LogBlueprintUserMessages: [BP_Zane_C_0] 88.524739
+[2025.10.27-00.42.00:624][437]LogBlueprintUserMessages: [BP_Zane_C_0] 88.439529
+[2025.10.27-00.42.00:638][438]LogBlueprintUserMessages: [BP_Zane_C_0] 88.36505
+[2025.10.27-00.42.00:652][439]LogBlueprintUserMessages: [BP_Zane_C_0] 88.293042
+[2025.10.27-00.42.00:672][440]LogBlueprintUserMessages: [BP_Zane_C_0] 88.217719
+[2025.10.27-00.42.00:687][441]LogBlueprintUserMessages: [BP_Zane_C_0] 88.121727
+[2025.10.27-00.42.00:702][442]LogBlueprintUserMessages: [BP_Zane_C_0] 88.04664
+[2025.10.27-00.42.00:717][443]LogBlueprintUserMessages: [BP_Zane_C_0] 87.969823
+[2025.10.27-00.42.00:731][444]LogBlueprintUserMessages: [BP_Zane_C_0] 87.899874
+[2025.10.27-00.42.00:746][445]LogBlueprintUserMessages: [BP_Zane_C_0] 87.826353
+[2025.10.27-00.42.00:761][446]LogBlueprintUserMessages: [BP_Zane_C_0] 87.751324
+[2025.10.27-00.42.00:775][447]LogBlueprintUserMessages: [BP_Zane_C_0] 87.679933
+[2025.10.27-00.42.00:789][448]LogBlueprintUserMessages: [BP_Zane_C_0] 87.606811
+[2025.10.27-00.42.00:805][449]LogBlueprintUserMessages: [BP_Zane_C_0] 87.530223
+[2025.10.27-00.42.00:819][450]LogBlueprintUserMessages: [BP_Zane_C_0] 87.460166
+[2025.10.27-00.42.00:834][451]LogBlueprintUserMessages: [BP_Zane_C_0] 87.385477
+[2025.10.27-00.42.00:848][452]LogBlueprintUserMessages: [BP_Zane_C_0] 87.314771
+[2025.10.27-00.42.00:863][453]LogBlueprintUserMessages: [BP_Zane_C_0] 87.239514
+[2025.10.27-00.42.00:877][454]LogBlueprintUserMessages: [BP_Zane_C_0] 87.168596
+[2025.10.27-00.42.00:893][455]LogBlueprintUserMessages: [BP_Zane_C_0] 87.090673
+[2025.10.27-00.42.00:907][456]LogBlueprintUserMessages: [BP_Zane_C_0] 87.018479
+[2025.10.27-00.42.00:922][457]LogBlueprintUserMessages: [BP_Zane_C_0] 86.943987
+[2025.10.27-00.42.00:938][458]LogBlueprintUserMessages: [BP_Zane_C_0] 86.873849
+[2025.10.27-00.42.00:955][459]LogBlueprintUserMessages: [BP_Zane_C_0] 86.787235
+[2025.10.27-00.42.00:971][460]LogBlueprintUserMessages: [BP_Zane_C_0] 86.701736
+[2025.10.27-00.42.00:988][461]LogBlueprintUserMessages: [BP_Zane_C_0] 86.618131
+[2025.10.27-00.42.01:006][462]LogBlueprintUserMessages: [BP_Zane_C_0] 86.539011
+[2025.10.27-00.42.01:022][463]LogBlueprintUserMessages: [BP_Zane_C_0] 86.444575
+[2025.10.27-00.42.01:039][464]LogBlueprintUserMessages: [BP_Zane_C_0] 86.36388
+[2025.10.27-00.42.01:054][465]LogBlueprintUserMessages: [BP_Zane_C_0] 86.281354
+[2025.10.27-00.42.01:070][466]LogBlueprintUserMessages: [BP_Zane_C_0] 86.202243
+[2025.10.27-00.42.01:088][467]LogBlueprintUserMessages: [BP_Zane_C_0] 86.119583
+[2025.10.27-00.42.01:104][468]LogBlueprintUserMessages: [BP_Zane_C_0] 86.035096
+[2025.10.27-00.42.01:119][469]LogBlueprintUserMessages: [BP_Zane_C_0] 86.331198
+[2025.10.27-00.42.01:135][470]LogBlueprintUserMessages: [BP_Zane_C_0] 86.647122
+[2025.10.27-00.42.01:150][471]LogBlueprintUserMessages: [BP_Zane_C_0] 86.946706
+[2025.10.27-00.42.01:164][472]LogBlueprintUserMessages: [BP_Zane_C_0] 87.24166
+[2025.10.27-00.42.01:180][473]LogBlueprintUserMessages: [BP_Zane_C_0] 87.55424
+[2025.10.27-00.42.01:195][474]LogBlueprintUserMessages: [BP_Zane_C_0] 87.87557
+[2025.10.27-00.42.01:210][475]LogBlueprintUserMessages: [BP_Zane_C_0] 88.161934
+[2025.10.27-00.42.01:225][476]LogBlueprintUserMessages: [BP_Zane_C_0] 88.460684
+[2025.10.27-00.42.01:239][477]LogBlueprintUserMessages: [BP_Zane_C_0] 88.744712
+[2025.10.27-00.42.01:253][478]LogBlueprintUserMessages: [BP_Zane_C_0] 89.034392
+[2025.10.27-00.42.01:268][479]LogBlueprintUserMessages: [BP_Zane_C_0] 89.310766
+[2025.10.27-00.42.01:283][480]LogBlueprintUserMessages: [BP_Zane_C_0] 89.614626
+[2025.10.27-00.42.01:298][481]LogBlueprintUserMessages: [BP_Zane_C_0] 89.902854
+[2025.10.27-00.42.01:312][482]LogBlueprintUserMessages: [BP_Zane_C_0] 90.209114
+[2025.10.27-00.42.01:328][483]LogBlueprintUserMessages: [BP_Zane_C_0] 90.513364
+[2025.10.27-00.42.01:342][484]LogBlueprintUserMessages: [BP_Zane_C_0] 90.804952
+[2025.10.27-00.42.01:357][485]LogBlueprintUserMessages: [BP_Zane_C_0] 91.088008
+[2025.10.27-00.42.01:372][486]LogBlueprintUserMessages: [BP_Zane_C_0] 91.399634
+[2025.10.27-00.42.01:387][487]LogBlueprintUserMessages: [BP_Zane_C_0] 91.70992
+[2025.10.27-00.42.01:402][488]LogBlueprintUserMessages: [BP_Zane_C_0] 91.994654
+[2025.10.27-00.42.01:417][489]LogBlueprintUserMessages: [BP_Zane_C_0] 92.297774
+[2025.10.27-00.42.01:432][490]LogBlueprintUserMessages: [BP_Zane_C_0] 92.602342
+[2025.10.27-00.42.01:446][491]LogBlueprintUserMessages: [BP_Zane_C_0] 92.88452
+[2025.10.27-00.42.01:461][492]LogBlueprintUserMessages: [BP_Zane_C_0] 93.162746
+[2025.10.27-00.42.01:475][493]LogBlueprintUserMessages: [BP_Zane_C_0] 93.457424
+[2025.10.27-00.42.01:491][494]LogBlueprintUserMessages: [BP_Zane_C_0] 93.7646
+[2025.10.27-00.42.01:505][495]LogBlueprintUserMessages: [BP_Zane_C_0] 94.052102
+[2025.10.27-00.42.01:521][496]LogBlueprintUserMessages: [BP_Zane_C_0] 94.37854
+[2025.10.27-00.42.01:535][497]LogBlueprintUserMessages: [BP_Zane_C_0] 94.660092
+[2025.10.27-00.42.01:549][498]LogBlueprintUserMessages: [BP_Zane_C_0] 94.945986
+[2025.10.27-00.42.01:564][499]LogBlueprintUserMessages: [BP_Zane_C_0] 95.237806
+[2025.10.27-00.42.01:579][500]LogBlueprintUserMessages: [BP_Zane_C_0] 95.524072
+[2025.10.27-00.42.01:593][501]LogBlueprintUserMessages: [BP_Zane_C_0] 95.8117
+[2025.10.27-00.42.01:608][502]LogBlueprintUserMessages: [BP_Zane_C_0] 96.103474
+[2025.10.27-00.42.01:622][503]LogBlueprintUserMessages: [BP_Zane_C_0] 96.391562
+[2025.10.27-00.42.01:636][504]LogBlueprintUserMessages: [BP_Zane_C_0] 96.69382
+[2025.10.27-00.42.01:650][505]LogBlueprintUserMessages: [BP_Zane_C_0] 96.972972
+[2025.10.27-00.42.01:666][506]LogBlueprintUserMessages: [BP_Zane_C_0] 97.267304
+[2025.10.27-00.42.01:681][507]LogBlueprintUserMessages: [BP_Zane_C_0] 97.586114
+[2025.10.27-00.42.01:695][508]LogBlueprintUserMessages: [BP_Zane_C_0] 97.85947
+[2025.10.27-00.42.01:709][509]LogBlueprintUserMessages: [BP_Zane_C_0] 98.147602
+[2025.10.27-00.42.01:724][510]LogBlueprintUserMessages: [BP_Zane_C_0] 98.454558
+[2025.10.27-00.42.01:739][511]LogBlueprintUserMessages: [BP_Zane_C_0] 98.7542
+[2025.10.27-00.42.01:754][512]LogBlueprintUserMessages: [BP_Zane_C_0] 99.03369
+[2025.10.27-00.42.01:773][513]LogBlueprintUserMessages: [BP_Zane_C_0] 99.405368
+[2025.10.27-00.42.01:793][514]LogBlueprintUserMessages: [BP_Zane_C_0] 99.805838
+[2025.10.27-00.42.01:807][515]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:820][516]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:835][517]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:852][518]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:873][519]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:898][520]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:917][521]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:931][522]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:945][523]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:960][524]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:974][525]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.01:989][526]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:003][527]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:017][528]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:033][529]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:047][530]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:062][531]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:077][532]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:092][533]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:106][534]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:126][535]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:143][536]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:159][537]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:173][538]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:188][539]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:202][540]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:217][541]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:234][542]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:252][543]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:269][544]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:285][545]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:301][546]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:317][547]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:333][548]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:349][549]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:366][550]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:384][551]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:399][552]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:416][553]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:432][554]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:447][555]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:462][556]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:477][557]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:492][558]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:508][559]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:523][560]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:539][561]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:554][562]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:570][563]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:585][564]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:603][565]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:619][566]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:633][567]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:648][568]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:663][569]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:677][570]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:694][571]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:710][572]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:725][573]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:741][574]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:755][575]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:771][576]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:786][577]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:802][578]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:817][579]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:833][580]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:849][581]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:864][582]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:880][583]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:897][584]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:911][585]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:926][586]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:940][587]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:955][588]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:971][589]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.02:985][590]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:000][591]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:015][592]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:029][593]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:044][594]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:059][595]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:075][596]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:089][597]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:104][598]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:118][599]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:133][600]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:147][601]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:162][602]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:176][603]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:191][604]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:205][605]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:220][606]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:235][607]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:249][608]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:266][609]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:281][610]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:295][611]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:309][612]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:325][613]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:339][614]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:357][615]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:373][616]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:388][617]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:404][618]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:419][619]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:433][620]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:447][621]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:465][622]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:480][623]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:497][624]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:511][625]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:526][626]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:540][627]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:555][628]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:570][629]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:585][630]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:605][631]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:620][632]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:636][633]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:650][634]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:664][635]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:680][636]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:695][637]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:710][638]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:727][639]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:743][640]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:758][641]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:774][642]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:789][643]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:804][644]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:818][645]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:833][646]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:847][647]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:861][648]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:876][649]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:891][650]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:907][651]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:921][652]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:936][653]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:951][654]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:967][655]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:983][656]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.03:997][657]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:011][658]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:026][659]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:040][660]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:055][661]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:069][662]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:085][663]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:099][664]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:114][665]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:130][666]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:145][667]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:160][668]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:173][669]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:188][670]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:203][671]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:218][672]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:233][673]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:248][674]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:262][675]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:276][676]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:291][677]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:305][678]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:321][679]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:336][680]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:351][681]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:367][682]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:381][683]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:396][684]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:411][685]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:427][686]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:442][687]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:459][688]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:473][689]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:488][690]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:502][691]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:516][692]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:531][693]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:546][694]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:560][695]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:573][696]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:590][697]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:608][698]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:624][699]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:638][700]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:652][701]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:666][702]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:681][703]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:696][704]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:710][705]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:725][706]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:739][707]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:754][708]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:769][709]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:782][710]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:797][711]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:811][712]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:826][713]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:840][714]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:854][715]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:869][716]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:883][717]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:898][718]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:913][719]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:927][720]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:941][721]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:957][722]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:971][723]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.04:985][724]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:002][725]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:015][726]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:031][727]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:045][728]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:060][729]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:074][730]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:089][731]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:103][732]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:118][733]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:132][734]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:148][735]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:162][736]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:176][737]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:190][738]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:205][739]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:225][740]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:245][741]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:259][742]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:273][743]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:287][744]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:303][745]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:317][746]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:338][747]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:369][748]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:384][749]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:401][750]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:416][751]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:429][752]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:445][753]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:461][754]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:475][755]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:490][756]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:504][757]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:521][758]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:535][759]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:551][760]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:566][761]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:581][762]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:598][763]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:614][764]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:630][765]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:644][766]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:659][767]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:673][768]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:687][769]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:701][770]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:717][771]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:733][772]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:749][773]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:763][774]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:778][775]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:793][776]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:809][777]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:823][778]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:837][779]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:852][780]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:866][781]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:881][782]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:896][783]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:912][784]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:930][785]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:944][786]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:960][787]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:974][788]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.05:989][789]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:003][790]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:018][791]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:033][792]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:047][793]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:063][794]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:077][795]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:094][796]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:110][797]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:127][798]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:144][799]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:160][800]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:176][801]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:192][802]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:208][803]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:223][804]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:240][805]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:255][806]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:269][807]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:284][808]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:300][809]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:313][810]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:329][811]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:343][812]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:357][813]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:372][814]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:387][815]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:402][816]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:417][817]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:433][818]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:449][819]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:463][820]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:479][821]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:493][822]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:508][823]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:523][824]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:538][825]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:553][826]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:567][827]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:581][828]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:597][829]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:612][830]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:626][831]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:642][832]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:657][833]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:671][834]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:686][835]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:703][836]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:718][837]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:733][838]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:747][839]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:762][840]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:776][841]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:790][842]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:805][843]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:823][844]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:837][845]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:852][846]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:866][847]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:881][848]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:894][849]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:912][850]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:928][851]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:942][852]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:957][853]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:971][854]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.06:986][855]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:000][856]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:016][857]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:030][858]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:045][859]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:060][860]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:074][861]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:091][862]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:104][863]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:119][864]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:133][865]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:149][866]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:163][867]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:178][868]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:192][869]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:205][870]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:221][871]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:235][872]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:250][873]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:264][874]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:281][875]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:295][876]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:309][877]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:325][878]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:339][879]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:356][880]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:370][881]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:387][882]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:401][883]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:418][884]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:433][885]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:448][886]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:463][887]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:477][888]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:492][889]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:506][890]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:523][891]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:539][892]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:554][893]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:571][894]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:586][895]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:602][896]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:618][897]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:632][898]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:650][899]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:666][900]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:681][901]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:695][902]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:709][903]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:725][904]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:740][905]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:755][906]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:771][907]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:786][908]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:802][909]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:817][910]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:832][911]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:846][912]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:861][913]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:875][914]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:890][915]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:905][916]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:924][917]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:938][918]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:953][919]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:968][920]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:983][921]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.07:996][922]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:011][923]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:025][924]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:040][925]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:056][926]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:070][927]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:087][928]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:101][929]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:117][930]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:133][931]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:149][932]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:164][933]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:180][934]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:195][935]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:209][936]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:224][937]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:238][938]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:253][939]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:267][940]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:282][941]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:298][942]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:311][943]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:327][944]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:341][945]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:356][946]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:370][947]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:384][948]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:400][949]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:414][950]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:428][951]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:443][952]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:456][953]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:470][954]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:486][955]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:502][956]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:516][957]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:530][958]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:546][959]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:561][960]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:575][961]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:589][962]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:603][963]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:619][964]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:635][965]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:653][966]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:668][967]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:686][968]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:706][969]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:722][970]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:736][971]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:751][972]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:765][973]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:781][974]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:806][975]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:833][976]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:847][977]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:862][978]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:877][979]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:892][980]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:907][981]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:923][982]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:939][983]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:954][984]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:968][985]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:982][986]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.08:997][987]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:012][988]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:028][989]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:043][990]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:059][991]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:076][992]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:090][993]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:104][994]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:118][995]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:135][996]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:148][997]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:163][998]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:178][999]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:195][  0]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:209][  1]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:223][  2]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:237][  3]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:251][  4]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:266][  5]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:280][  6]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:297][  7]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:311][  8]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:327][  9]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:340][ 10]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:355][ 11]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:370][ 12]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:385][ 13]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:399][ 14]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:414][ 15]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:429][ 16]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:443][ 17]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:459][ 18]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:473][ 19]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:489][ 20]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:504][ 21]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:518][ 22]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:533][ 23]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:549][ 24]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:564][ 25]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:578][ 26]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:595][ 27]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:609][ 28]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:623][ 29]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:639][ 30]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:653][ 31]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:668][ 32]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:684][ 33]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:699][ 34]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:714][ 35]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:729][ 36]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:744][ 37]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:757][ 38]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:771][ 39]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:787][ 40]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:801][ 41]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:816][ 42]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:830][ 43]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:844][ 44]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:859][ 45]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:873][ 46]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:888][ 47]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:902][ 48]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:917][ 49]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:932][ 50]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:947][ 51]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:962][ 52]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:976][ 53]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.09:992][ 54]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:006][ 55]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:020][ 56]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:035][ 57]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:049][ 58]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:063][ 59]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:078][ 60]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:093][ 61]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:107][ 62]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:122][ 63]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:137][ 64]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:154][ 65]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:169][ 66]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:183][ 67]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:197][ 68]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:211][ 69]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:225][ 70]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:240][ 71]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:256][ 72]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:272][ 73]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:288][ 74]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:302][ 75]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:318][ 76]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:334][ 77]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:348][ 78]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:364][ 79]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:380][ 80]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:396][ 81]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:412][ 82]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:428][ 83]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:444][ 84]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:459][ 85]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:474][ 86]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:489][ 87]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:504][ 88]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:518][ 89]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:533][ 90]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:547][ 91]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:565][ 92]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:580][ 93]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:594][ 94]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:611][ 95]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:628][ 96]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:642][ 97]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:659][ 98]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:675][ 99]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:690][100]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:707][101]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:721][102]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:737][103]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:755][104]LogBlueprintUserMessages: [BP_Zane_C_0] 100.0
+[2025.10.27-00.42.10:844][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-00.42.10:844][104]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Blockout
+[2025.10.27-00.42.10:845][104]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.10:857][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.10:862][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.27-00.42.10:870][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.10:898][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.27-00.42.10:902][104]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.27-00.42.10:902][104]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.10.27-00.42.10:904][104]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.10.27-00.42.10:918][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.27-00.42.11:035][105]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.10.27-00.42.11:651][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.27-00.42.11:657][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-00.42.11:690][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_Fading] ([1] browsable assets)...
+[2025.10.27-00.42.11:729][138]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_Fading.M_Fading]
+[2025.10.27-00.42.11:729][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_Fading]
+[2025.10.27-00.42.11:729][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_Fading" FILE="E:/HTK/3Sem/SemGame/Project/Content/Material/M_Fading.uasset" SILENT=true
+[2025.10.27-00.42.11:741][138]LogSavePackage: Moving output files for package: /Game/Material/M_Fading
+[2025.10.27-00.42.11:741][138]LogSavePackage: Moving 'E:/HTK/3Sem/SemGame/Project/Saved/M_Fading84AB159943086B00540A23A36D651FFB.tmp' to 'E:/HTK/3Sem/SemGame/Project/Content/Material/M_Fading.uasset'
+[2025.10.27-00.42.11:768][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.230 ms (total: 2.45 sec)
+[2025.10.27-00.42.11:813][138]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.27-00.42.11:813][138]LogContentValidation: Enabled validators:
+[2025.10.27-00.42.11:813][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-00.42.11:813][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-00.42.11:813][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-00.42.11:813][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-00.42.11:813][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-00.42.11:813][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-00.42.11:813][138]AssetCheck: /Game/Material/M_Fading Validating asset
+[2025.10.27-00.42.16:926][247]LogSlate: Window 'Message' being destroyed
+[2025.10.27-00.42.16:937][247]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Material/M_CustomDepth.M_CustomDepth
+(Selecting 'No' will cause all changes to be lost!)
+[2025.10.27-00.42.17:163][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.27-00.42.17:352][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.27-00.42.18:619][247]LogSlate: Window 'Message' being destroyed
+[2025.10.27-00.42.18:629][247]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Material/Footage/MP_Glitch_Video_Mat.MP_Glitch_Video_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2025.10.27-00.42.18:897][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.27-00.42.19:081][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.27-00.42.27:270][247]LogSlate: Window 'Message' being destroyed
+[2025.10.27-00.42.27:289][247]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Material/M_DepthFade.M_DepthFade
+(Selecting 'No' will cause all changes to be lost!)
+[2025.10.27-00.42.27:599][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.27-00.42.27:768][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.27-00.42.27:814][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.27-00.42.29:018][247]LogSlate: Window 'Save Content' being destroyed
+[2025.10.27-00.42.29:063][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.27-00.42.29:111][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/Footage/MP_Glitch_Video_Mat] ([1] browsable assets)...
+[2025.10.27-00.42.29:156][247]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/Footage/MP_Glitch_Video_Mat.MP_Glitch_Video_Mat]
+[2025.10.27-00.42.29:156][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/Footage/MP_Glitch_Video_Mat]
+[2025.10.27-00.42.29:156][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/Footage/MP_Glitch_Video_Mat" FILE="E:/HTK/3Sem/SemGame/Project/Content/Material/Footage/MP_Glitch_Video_Mat.uasset" SILENT=true
+[2025.10.27-00.42.29:169][247]LogSavePackage: Moving output files for package: /Game/Material/Footage/MP_Glitch_Video_Mat
+[2025.10.27-00.42.29:169][247]LogSavePackage: Moving 'E:/HTK/3Sem/SemGame/Project/Saved/MP_Glitch_Video_Mat6CF9087C4B9135B3255408AB642CC954.tmp' to 'E:/HTK/3Sem/SemGame/Project/Content/Material/Footage/MP_Glitch_Video_Mat.uasset'
+[2025.10.27-00.42.29:170][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_CustomDepth] ([1] browsable assets)...
+[2025.10.27-00.42.29:183][247]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_CustomDepth.M_CustomDepth]
+[2025.10.27-00.42.29:183][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_CustomDepth]
+[2025.10.27-00.42.29:183][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_CustomDepth" FILE="E:/HTK/3Sem/SemGame/Project/Content/Material/M_CustomDepth.uasset" SILENT=true
+[2025.10.27-00.42.29:201][247]LogSavePackage: Moving output files for package: /Game/Material/M_CustomDepth
+[2025.10.27-00.42.29:201][247]LogSavePackage: Moving 'E:/HTK/3Sem/SemGame/Project/Saved/M_CustomDepthD5269171453DCA83CC0CF38462A177B4.tmp' to 'E:/HTK/3Sem/SemGame/Project/Content/Material/M_CustomDepth.uasset'
+[2025.10.27-00.42.29:202][247]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_DepthFade] ([1] browsable assets)...
+[2025.10.27-00.42.29:209][247]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_DepthFade.M_DepthFade]
+[2025.10.27-00.42.29:209][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_DepthFade]
+[2025.10.27-00.42.29:209][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_DepthFade" FILE="E:/HTK/3Sem/SemGame/Project/Content/Material/M_DepthFade.uasset" SILENT=true
+[2025.10.27-00.42.29:220][247]LogSavePackage: Moving output files for package: /Game/Material/M_DepthFade
+[2025.10.27-00.42.29:221][247]LogSavePackage: Moving 'E:/HTK/3Sem/SemGame/Project/Saved/M_DepthFade42919EB04F5094F530A6E9911336CAAD.tmp' to 'E:/HTK/3Sem/SemGame/Project/Content/Material/M_DepthFade.uasset'
+[2025.10.27-00.42.29:238][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.708 ms (total: 2.63 sec)
+[2025.10.27-00.42.29:360][247]LogStall: Shutdown...
+[2025.10.27-00.42.29:360][247]LogStall: Shutdown complete.
+[2025.10.27-00.42.29:787][247]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.29:787][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.29:874][247]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.29:874][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.30:127][247]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.30:127][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.30:501][247]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.30:501][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.30:625][247]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.30:625][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.30:662][247]LogSlate: Window 'MI_DepthFade' being destroyed
+[2025.10.27-00.42.30:688][247]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.30:688][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.30:772][247]LogSlate: Window 'SYNTH - Unreal Editor' being destroyed
+[2025.10.27-00.42.30:940][247]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.27-00.42.30:940][247]LogContentValidation: Enabled validators:
+[2025.10.27-00.42.30:940][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.27-00.42.30:940][247]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.27-00.42.30:940][247]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.27-00.42.30:940][247]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.27-00.42.30:940][247]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.27-00.42.30:940][247]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.27-00.42.30:940][247]AssetCheck: /Game/Material/Footage/MP_Glitch_Video_Mat Validating asset
+[2025.10.27-00.42.30:940][247]AssetCheck: /Game/Material/M_CustomDepth Validating asset
+[2025.10.27-00.42.30:940][247]AssetCheck: /Game/Material/M_DepthFade Validating asset
+[2025.10.27-00.42.31:030][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.10.27-00.42.31:059][247]LogAutomationController: Ignoring very large delta of 17.51 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.27-00.42.31:060][247]Cmd: QUIT_EDITOR
+[2025.10.27-00.42.31:060][247]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.27-00.42.31:070][248]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.27-00.42.31:072][248]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.27-00.42.31:072][248]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.27-00.42.31:092][248]LogWorld: UWorld::CleanupWorld for Blockout, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:092][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:117][248]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.27-00.42.31:117][248]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.27-00.42.31:118][248]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.27-00.42.31:126][248]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:126][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:130][248]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:130][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:133][248]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:133][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:136][248]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:136][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:139][248]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:140][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:143][248]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:143][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:146][248]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:146][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:150][248]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:150][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:153][248]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:153][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:156][248]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:156][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:160][248]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:160][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:163][248]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.10.27-00.42.31:163][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.27-00.42.31:166][248]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.27-00.42.31:166][248]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.27-00.42.31:171][248]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.27-00.42.31:389][248]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.27-00.42.31:389][248]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.27-00.42.31:389][248]LogAudio: Display: Audio Device unregistered from world 'Blockout'.
+[2025.10.27-00.42.31:389][248]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.27-00.42.31:389][248]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.27-00.42.31:391][248]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.27-00.42.31:398][248]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.27-00.42.31:398][248]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.27-00.42.31:399][248]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2025.10.27-00.42.31:404][248]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.27-00.42.31:405][248]LogExit: Preparing to exit.
+[2025.10.27-00.42.31:465][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.31:472][248]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.27-00.42.32:153][248]LogEditorDataStorage: Deinitializing
+[2025.10.27-00.42.32:344][248]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.27-00.42.32:365][248]LogExit: Editor shut down
+[2025.10.27-00.42.32:368][248]LogExit: Transaction tracking system shut down
+[2025.10.27-00.42.32:633][248]LogExit: Object subsystem successfully closed.
+[2025.10.27-00.42.32:704][248]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.27-00.42.32:824][248]LogMemoryProfiler: Shutdown
+[2025.10.27-00.42.32:824][248]LogNetworkingProfiler: Shutdown
+[2025.10.27-00.42.32:824][248]LoadingProfiler: Shutdown
+[2025.10.27-00.42.32:824][248]LogTimingProfiler: Shutdown
+[2025.10.27-00.42.32:826][248]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.27-00.42.32:826][248]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.27-00.42.33:173][248]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.27-00.42.33:173][248]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.27-00.42.33:193][248]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.27-00.42.33:193][248]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B98CF2358-42D2-1275-1752-56BED4AA915C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=eae140314f8fe9859b065988c5c0d96a%7Cde30374f7c8844d7ae9315944054bf5d%7C7f15baeb-fbec-4d6a-9c4d-4b2a4f6e01d9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.27-00.42.33:738][248]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.27-00.42.33:748][248]RenderDocPlugin: plugin has been unloaded.
+[2025.10.27-00.42.33:750][248]LogXGEController: Cleaning working directory: C:/Users/marce/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.27-00.42.33:753][248]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.27-00.42.33:753][248]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.27-00.42.33:753][248]LogPakFile: Destroying PakPlatformFile
+[2025.10.27-00.42.34:232][248]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.27-00.42.34:263][248]LogExit: Exiting.
+[2025.10.27-00.42.34:305][248]Log file closed, 10/27/25 01:42:34
