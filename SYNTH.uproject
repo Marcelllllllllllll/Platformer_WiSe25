@@ -18,6 +18,10 @@
 		{
 			"Name": "D3D12VideoDecodersElectra",
 			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	]
 }
