@@ -26,6 +26,10 @@
 		{
 			"Name": "ChaosClothEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	]
 }
